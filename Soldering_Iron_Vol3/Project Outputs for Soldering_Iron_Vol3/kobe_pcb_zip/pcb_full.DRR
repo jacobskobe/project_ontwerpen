@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pcb_full.PcbDoc   4/30/2024  2:28:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : pcb_full-RoundHoles.TXT
+ASCII SlotHoles File : pcb_full-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             38        PTH        178.73mm (7.04inch)
+T2      0.7mm (28mil)                                             Round             34        PTH        346.69mm (13.65inch)
+T3      0.711mm (28mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T4      0.75mm (30mil)                                            Round             6         PTH        21.73mm (0.86inch)
+T5      0.8mm (31mil)                                             Round             9         PTH        25.69mm (1.01inch)
+T6      0.9mm (35mil)                                             Round             8         PTH        103.32mm (4.07inch)
+T7      1mm (39mil)                                               Round             5         PTH        24.50mm (0.96inch)
+T8      1.05mm (41mil)                                            Round             6         PTH        48.61mm (1.91inch)
+T9      1.1mm (43mil)                                             Round             2         PTH        13.50mm (0.53inch)
+T10     1.3mm (51mil)                                             Round             6         PTH        85.44mm (3.36inch)
+T11     1.4mm (55mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T12     1.8mm (71mil)                                             Slot              2         PTH        28.29mm (1.11inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              120
+
+Total Processing Time (hh:mm:ss) : 00:00:00
